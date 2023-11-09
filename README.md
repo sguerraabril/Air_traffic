@@ -4,11 +4,11 @@
 
 This project analyzes and connects three datasets on air transporation: airports, routes, and continents; with the goal of providing graphical information about them. It uses geographical coordinates about airports as well as extense data on the routes that connect them to answer questions about popular airports, airlines, or types of routes. The results are performed in this [Jupyter notebook](https://github.com/sguerraabril/air_traffic/blob/main/Air%20Traffic%20Visualization.ipynb).
 
-
-
-
-
-
+Some results from the analysis follow:
+* Ryanair is the most prolific airline (in terms of distinct routes).
+* Half of the 10 most prloific airports are in the US, with Atlanta serving the most routes. The US is also the country with the highest number of airports.
+* About 50% of routes happen nationally, 37% internationally within a content, and only 13% of them intercontinentally.
+* The American continent is home to about as many airports as all the other continents combined.
 
 
 ## Installation
